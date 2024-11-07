@@ -1,0 +1,27 @@
+8 6
+BB
+BB
+BB
+AA
+AA
+4F5
+AA
+AA
+CC
+CC
+BB
+4F6
+DD
+EE
+EE
+DD
+3F7
+EE
+CC
+FF
+3F8
+FF
+DD
+3F4
+FF
+1F3
