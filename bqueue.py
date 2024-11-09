@@ -1,11 +1,4 @@
 
-#----------------------------------------------
-# bqueue.py 
-# CMPUT 175                                
-# AMRITPAL SINGH                            
-# 1815622                                   
-# REFERENCES: e-Class QUEUES LECTURE NOTES  
-#----------------------------------------------
 class BoundedQueue: 
     # Creates a new empty queue:
     def __init__(self, capacity): 
