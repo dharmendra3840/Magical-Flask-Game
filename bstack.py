@@ -1,11 +1,3 @@
-#----------------------------------------------------
-# bstack.py
-# (Top of stack corresponds to back of list)
-# CMPUT 175
-# AMRITPAL SINGH
-# STUDENT ID : 1815622
-# REFERENCES: e-Class STACK LECTURE NOTES 
-#----------------------------------------------------
 
 class BoundedStack:
     # Creates a new empty stack:
